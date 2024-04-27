@@ -5,8 +5,11 @@ This repository contains the code for a subscription box created using HTML and 
 Features:
 
 1.Simple and intuitive user interface.
+
 2.Customizable subscription plans.
+
 3.Responsive design for optimal viewing on various devices.
+
 4.Basic CSS styling for a clean and modern look.
 
 Usage:
