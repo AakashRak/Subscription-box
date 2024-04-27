@@ -24,4 +24,4 @@ Contributing:
 
 Contributions are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
-To see my project kindly click the link
+To see my project kindly click the link https://aakashrak.github.io/Subscription-box/
